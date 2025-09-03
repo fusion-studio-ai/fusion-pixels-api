@@ -19,5 +19,6 @@ export enum AIModel {
   GEMINI_PRO = 'gemini-1.5-pro',
   GEMINI_VISION = 'gemini-1.5-pro-vision',
   GEMINI_2_FLASH = 'gemini-2.0-flash-exp',
+  GEMINI_2_5_FLASH_IMAGE_PREVIEW = 'gemini-2.5-flash-image-preview',
   IMAGEN_002 = 'imagen-002',
 }
